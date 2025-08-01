@@ -34,3 +34,46 @@ h3 {
 .btn-primary:hover {
     background-color: #0b5ed7;
 }
+
+
+/* General Styling */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+}
+
+
+/* Navbar */
+
+.navbar-brand {
+    font-size: 1.5rem;
+}
+
+
+/* Hero Section */
+
+section {
+    padding: 60px 0;
+}
+
+section h1,
+section h2,
+section h3 {
+    font-weight: bold;
+}
+
+
+/* Project Cards */
+
+.card img {
+    height: 200px;
+    object-fit: cover;
+}
+
+
+/* Contact Form */
+
+form {
+    background: #fff;
+}
