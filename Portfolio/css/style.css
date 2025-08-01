@@ -77,3 +77,14 @@ section h3 {
 form {
     background: #fff;
 }
+
+
+/* Global body background */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f2f5;
+    /* Light gray-blue */
+    margin: 0;
+    padding: 0;
+}
