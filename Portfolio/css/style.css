@@ -88,3 +88,23 @@ body {
     margin: 0;
     padding: 0;
 }
+
+#about,
+.about-section {
+    background-color: #0d6efd;
+    /* same blue as top */
+    color: white;
+    /* make text readable */
+    padding: 50px 0;
+    /* add spacing */
+}
+
+#about h2,
+.about-section h2 {
+    color: white;
+}
+
+#about p,
+.about-section p {
+    color: #f0f0f0;
+}
