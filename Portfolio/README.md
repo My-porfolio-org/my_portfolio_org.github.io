@@ -1,6 +1,6 @@
 # Personal Portfolio Website
 
-This is a responsive personal portfolio website built with **HTML**, **CSS**, and **Bootstrap**.  
+This is a personal portfolio website built with **HTML**, **CSS**, and **Bootstrap**.  
 It includes multiple pages to showcase projects, work experience, and a contact form.
 
 ## 📂 Project Structure
