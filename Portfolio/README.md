@@ -1,7 +1,7 @@
 # Personal Portfolio Website
 
-This is a personal portfolio website built with **HTML**, **CSS**, and **Bootstrap**.  
-It includes multiple pages to showcase projects, work experience, and a contact form.
+This is a personal portfolio website built with **HTML**, **CSS**, and  **Bootstrap**.  
+It includes multiple pages to showcase projects, work experience,skill and a contact form.
 
 ## 📂 Project Structure
 portfolio/
@@ -11,7 +11,7 @@ portfolio/
 │── contact.html # Contact page
 │── css/
 │ └── style.css # Custom styling
-│── images/ # Profile and project images
+│── images/ # Profile images 
 │── README.md # Project documentation
 
 
@@ -29,15 +29,10 @@ portfolio/
 - **HTML5**
 - **CSS3**
 - **Bootstrap 5**
-- **Font Awesome**
-
-## 📸 Screenshots
-_Add screenshots of your portfolio pages here._
-
 ## 🚀 How to Use
-1. Clone or download this repository.
+1. Clone, fork or  download this repository.
 2. Open `index.html` in your browser.
 3. Customize content, images, and styles in `css/style.css`.
 
 ## 🌐 Live Demo
-_You can host this project using GitHub Pages or Netlify._
+You can host this project using GitHub Pages
