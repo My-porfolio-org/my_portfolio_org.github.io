@@ -108,3 +108,96 @@ body {
 .about-section p {
     color: #f0f0f0;
 }
+
+
+/* About Me Section */
+
+.about-section {
+    background-color: #f0f8ff;
+    /* Change this to any color */
+    padding: 40px 20px;
+    border-radius: 10px;
+}
+
+
+/* Adjustable font size */
+
+.about-title {
+    font-size: 2.2rem;
+    /* Change this value to adjust */
+    font-weight: bold;
+}
+
+.about-text {
+    font-size: 1.1rem;
+    /* Change this value to adjust */
+    line-height: 1.6;
+    color: #333;
+}
+
+
+/* Profile Section */
+
+.profile-section {
+    background-color: #e6f2ff;
+    /* Light blue background, change as you like */
+    padding: 30px 0;
+}
+
+
+/* Profile Image Styling */
+
+.profile-img {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    border: 4px solid #fff;
+    /* White border */
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+    /* Nice shadow */
+    transition: transform 0.3s ease;
+}
+
+
+/* Hover effect */
+
+.profile-img:hover {
+    transform: scale(1.05);
+}
+
+
+/* Section background */
+
+.profile-section {
+    background-color: #f5f7fa;
+    /* Section background */
+    padding: 40px 0;
+}
+
+
+/* Profile wrapper (circle background) */
+
+.profile-wrapper {
+    background-color: #4da6ff;
+    /* Circle background color */
+    border-radius: 50%;
+    display: inline-block;
+    padding: 10px;
+    /* Space between image and circle background */
+}
+
+
+/* Profile image (adjustable size) */
+
+.profile-img {
+    width: 200px;
+    /* Change this to update size */
+    height: 200px;
+    /* Change this to update size */
+    border-radius: 50%;
+    /* Makes it a circle */
+    object-fit: cover;
+    display: block;
+    border: 3px solid white;
+    /* Optional white border */
+}
