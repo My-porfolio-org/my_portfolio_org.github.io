@@ -20,10 +20,11 @@ During this period, I worked on:
 - **Styling:** Added adjustable font sizes, background colors, and responsive design to ensure the site looks good on all devices.
 
 ##  Visuals / Links
-- **GitHub Repo:**       [Insert your GitHub repository link here]
-- **Screenshots:** [Insert screenshots of your pages or a preview link]
+- **GitHub Repo:**       https://github.com/My-porfolio-org/my_portfolio_org.github.io.git
+
 
 ##  Challenges & Solutions
+
 - **Challenge:** Making each section visually distinct and responsive on different screen sizes.  
     I am having challenging creating animation for my project.
   **Solution:** Used Bootstrap's grid system and custom CSS to create adjustable sections with different background colors.  
@@ -31,9 +32,16 @@ During this period, I worked on:
   **Solution:** Structured the code with reusable components and clean, commented HTML/CSS.
 
 ## Key Learnings
+
 I am still learning Html CSS and javascript to understand how I can Impliment in real application.
 - Improved my understanding of responsive design using Bootstrap's grid system.
 - Learned how to make sections adjustable with CSS for flexible layout control.
 - Gained experience in organizing a personal project professionally for future employers.
+
+
 Abdulfetah Adem 
-🔗 [Link to this file/repo]
+
+
+🔗
+https://github.com/My-porfolio-org/my_portfolio_org.github.io.git
+
