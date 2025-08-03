@@ -15,7 +15,7 @@ portfolio/
 │── README.md # Project documentation
 
 
-## ✨ Features
+## Features
 - Responsive **Bootstrap** layout
 - Full Hero Section with background image
 - About Me section with profile image
@@ -25,14 +25,14 @@ portfolio/
 - Contact form with email and phone
 - Font Awesome social icons
 
-## 🛠️ Technologies Used
+##  Technologies Used
 - **HTML5**
 - **CSS3**
 - **Bootstrap 5**
-## 🚀 How to Use
+## How to Use
 1. Clone, fork or  download this repository.
 2. Open `index.html` in your browser.
 3. Customize content, images, and styles in `css/style.css`.
 
-## 🌐 Live Demo
+##  Live Demo
 You can host this project using GitHub Pages
