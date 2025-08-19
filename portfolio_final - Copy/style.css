@@ -102,7 +102,7 @@ a:hover {
 /* Hero */
 
 .hero-section {
-    min-height: 88vh;
+    min-height: 50vh;
     background: url('assets/img/hero-bg.png') center/cover no-repeat;
     position: relative;
     display: grid;
@@ -220,8 +220,8 @@ a:hover {
 /* Profile Image */
 
 .profile-img {
-    width: 320px;
-    height: 320px;
+    width: 150px;
+    height: 150px;
     object-fit: cover;
     border: 6px solid rgba(255, 255, 255, .1);
 }
@@ -403,4 +403,45 @@ h2 {
     /* hover effect */
     color: #fff;
     /* keep text white */
+}
+
+
+/* Reduce card height */
+
+.project-card {
+    max-height: 350px;
+    /* adjust as needed */
+    overflow: hidden;
+    /* hides anything that exceeds the height */
+}
+
+
+/* Adjust image size */
+
+.project-card img {
+    height: 180px;
+    /* shrink image height */
+    object-fit: cover;
+    /* keeps aspect ratio without stretching */
+}
+
+
+/* Change font color */
+
+.project-card .card-title {
+    color: #007bff;
+    /* Example: blue */
+}
+
+.project-card .card-text,
+.project-card p {
+    color: #444444;
+    /* Example: dark gray */
+}
+
+
+/* Optional: make button text white */
+
+.project-card .btn-cta {
+    color: #ffffff;
 }
