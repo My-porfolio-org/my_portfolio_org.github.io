@@ -26,3 +26,5 @@ Ensuring the portfolio can scale and be easily updated in the future
 I am still learning learning htm, css and java script and boot strap to understand how I can implement in real application 
 Improved my understand of responsive design and interactive web site using boot strap, html ,css and java script 
 
+
+thank you
